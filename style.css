@@ -43,6 +43,7 @@ ul {
     display: flex;
     padding: 5vh 12vh;
     gap: 10px;
+    justify-content: center;
 }
 
 .first-content-words {
@@ -98,8 +99,8 @@ ul {
 
 .images {
     display: flex;
-    justify-content: space-between;
-    gap: 5px;
+    justify-content: center;
+    gap: 30px;
 }
 
 .image-box {
